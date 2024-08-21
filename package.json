@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@loro_oldenzel/pwa-test-12",
+  "name": "@oldenzel/pwa-test-12",
   "version": "0.1.26",
   "repository": "https://github.com/Oldenzel/loro-testnet-example-pwa",
   "scripts": {
